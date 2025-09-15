@@ -8,8 +8,6 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
   "/media/mukbambot/New Volume/Game Dev/VortexMate/CMakeLists.txt"
-  "CMakeFiles/3.28.3/CMakeCCompiler.cmake"
-  "CMakeFiles/3.28.3/CMakeSystem.cmake"
   "/usr/local/lib/cmake/raylib/raylib-config-version.cmake"
   "/usr/local/lib/cmake/raylib/raylib-config.cmake"
   "/usr/local/lib/cmake/raylib/raylib-targets-noconfig.cmake"

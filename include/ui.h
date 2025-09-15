@@ -14,9 +14,6 @@ typedef struct {
 } UIOverlayInfo;
 
 void draw_ui(const UIOverlayInfo *info, float logo_alpha);
-<<<<<<< HEAD
-void draw_game_result_overlay(const char *result);
-=======
 void draw_game_result_overlay(const char *result);
 
 // --- New function prototype ---
@@ -28,4 +25,4 @@ void draw_game_result_overlay(const char *result);
 void draw_logo_centered(Texture2D logo, bool logo_loaded, int x, int y, float alpha);
 
 #endif
->>>>>>> a3d94f5 (solving errors)
+

@@ -26,11 +26,8 @@ bool is_empty(int board[8][8], int row, int col);
 
 // Check/checkmate/stalemate
 bool is_in_check(int board[8][8], int color);    // color: 1 (white) or -1 (black)
-<<<<<<< HEAD
-bool has_valid_moves(int board[8][8], int color);
-=======
 bool has_valid_moves(int board[8][8], int color);
 
 // New helper: validate moves without considering check
 bool is_valid_move_no_check(int board[8][8], int fr, int fc, int tr, int tc);
->>>>>>> a3d94f5 (solving errors)
+

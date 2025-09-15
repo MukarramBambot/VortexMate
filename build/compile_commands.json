@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/media/mukbambot/New Volume/Game Dev/VortexMate/build",
+  "command": "/usr/bin/cc -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -I\"/media/mukbambot/New Volume/Game Dev/VortexMate/include\" -std=gnu99 -o CMakeFiles/VortexMate.dir/src/main.c.o -c \"/media/mukbambot/New Volume/Game Dev/VortexMate/src/main.c\"",
+  "file": "/media/mukbambot/New Volume/Game Dev/VortexMate/src/main.c",
+  "output": "CMakeFiles/VortexMate.dir/src/main.c.o"
+},
+{
+  "directory": "/media/mukbambot/New Volume/Game Dev/VortexMate/build",
+  "command": "/usr/bin/cc -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -I\"/media/mukbambot/New Volume/Game Dev/VortexMate/include\" -std=gnu99 -o CMakeFiles/VortexMate.dir/src/models.c.o -c \"/media/mukbambot/New Volume/Game Dev/VortexMate/src/models.c\"",
+  "file": "/media/mukbambot/New Volume/Game Dev/VortexMate/src/models.c",
+  "output": "CMakeFiles/VortexMate.dir/src/models.c.o"
+},
+{
+  "directory": "/media/mukbambot/New Volume/Game Dev/VortexMate/build",
+  "command": "/usr/bin/cc -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -I\"/media/mukbambot/New Volume/Game Dev/VortexMate/include\" -std=gnu99 -o CMakeFiles/VortexMate.dir/src/chess_logic.c.o -c \"/media/mukbambot/New Volume/Game Dev/VortexMate/src/chess_logic.c\"",
+  "file": "/media/mukbambot/New Volume/Game Dev/VortexMate/src/chess_logic.c",
+  "output": "CMakeFiles/VortexMate.dir/src/chess_logic.c.o"
+},
+{
+  "directory": "/media/mukbambot/New Volume/Game Dev/VortexMate/build",
+  "command": "/usr/bin/cc -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -I\"/media/mukbambot/New Volume/Game Dev/VortexMate/include\" -std=gnu99 -o CMakeFiles/VortexMate.dir/src/ai.c.o -c \"/media/mukbambot/New Volume/Game Dev/VortexMate/src/ai.c\"",
+  "file": "/media/mukbambot/New Volume/Game Dev/VortexMate/src/ai.c",
+  "output": "CMakeFiles/VortexMate.dir/src/ai.c.o"
+},
+{
+  "directory": "/media/mukbambot/New Volume/Game Dev/VortexMate/build",
+  "command": "/usr/bin/cc -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -I\"/media/mukbambot/New Volume/Game Dev/VortexMate/include\" -std=gnu99 -o CMakeFiles/VortexMate.dir/src/ui.c.o -c \"/media/mukbambot/New Volume/Game Dev/VortexMate/src/ui.c\"",
+  "file": "/media/mukbambot/New Volume/Game Dev/VortexMate/src/ui.c",
+  "output": "CMakeFiles/VortexMate.dir/src/ui.c.o"
+},
+{
+  "directory": "/media/mukbambot/New Volume/Game Dev/VortexMate/build",
+  "command": "/usr/bin/cc -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -I\"/media/mukbambot/New Volume/Game Dev/VortexMate/include\" -std=gnu99 -o CMakeFiles/VortexMate.dir/src/menu.c.o -c \"/media/mukbambot/New Volume/Game Dev/VortexMate/src/menu.c\"",
+  "file": "/media/mukbambot/New Volume/Game Dev/VortexMate/src/menu.c",
+  "output": "CMakeFiles/VortexMate.dir/src/menu.c.o"
+},
+{
+  "directory": "/media/mukbambot/New Volume/Game Dev/VortexMate/build",
+  "command": "/usr/bin/cc -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -I\"/media/mukbambot/New Volume/Game Dev/VortexMate/include\" -std=gnu99 -o CMakeFiles/VortexMate.dir/src/save.c.o -c \"/media/mukbambot/New Volume/Game Dev/VortexMate/src/save.c\"",
+  "file": "/media/mukbambot/New Volume/Game Dev/VortexMate/src/save.c",
+  "output": "CMakeFiles/VortexMate.dir/src/save.c.o"
+},
+{
+  "directory": "/media/mukbambot/New Volume/Game Dev/VortexMate/build",
+  "command": "/usr/bin/cc -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -I\"/media/mukbambot/New Volume/Game Dev/VortexMate/include\" -std=gnu99 -o CMakeFiles/VortexMate.dir/src/network.c.o -c \"/media/mukbambot/New Volume/Game Dev/VortexMate/src/network.c\"",
+  "file": "/media/mukbambot/New Volume/Game Dev/VortexMate/src/network.c",
+  "output": "CMakeFiles/VortexMate.dir/src/network.c.o"
+},
+{
+  "directory": "/media/mukbambot/New Volume/Game Dev/VortexMate/build",
+  "command": "/usr/bin/cc -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -I\"/media/mukbambot/New Volume/Game Dev/VortexMate/include\" -std=gnu99 -o CMakeFiles/VortexMate.dir/src/db.c.o -c \"/media/mukbambot/New Volume/Game Dev/VortexMate/src/db.c\"",
+  "file": "/media/mukbambot/New Volume/Game Dev/VortexMate/src/db.c",
+  "output": "CMakeFiles/VortexMate.dir/src/db.c.o"
+},
+{
+  "directory": "/media/mukbambot/New Volume/Game Dev/VortexMate/build",
+  "command": "/usr/bin/cc -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -I\"/media/mukbambot/New Volume/Game Dev/VortexMate/include\" -std=gnu99 -o CMakeFiles/VortexMate.dir/src/config.c.o -c \"/media/mukbambot/New Volume/Game Dev/VortexMate/src/config.c\"",
+  "file": "/media/mukbambot/New Volume/Game Dev/VortexMate/src/config.c",
+  "output": "CMakeFiles/VortexMate.dir/src/config.c.o"
+}
+]
