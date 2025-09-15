@@ -1,0 +1,3 @@
+/media/mukbambot/New Volume/Game Dev/VortexMate/build/CMakeFiles/VortexMate.dir
+/media/mukbambot/New Volume/Game Dev/VortexMate/build/CMakeFiles/edit_cache.dir
+/media/mukbambot/New Volume/Game Dev/VortexMate/build/CMakeFiles/rebuild_cache.dir
